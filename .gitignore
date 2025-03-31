@@ -1,0 +1,7 @@
+.vscode/settings.json
+bin/App.class
+bin/Evento.class
+src/Main.java
+bin/Concerto.class
+bin/Eccezione.class
+bin/Main.class
