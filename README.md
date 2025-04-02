@@ -13,6 +13,7 @@ Creare una classe Evento che abbia le seguenti proprietà:
   
 Quando si istanzia un nuovo evento questi attributi devono essere tutti valorizzati nel costruttore, tranne posti prenotati che va inizializzato a 0.
 Inserire il controllo che la data non sia già passata e che il numero di posti totali sia positivo. In caso contrario il programma deve lanciare una eccezione.
+
 Aggiungere metodi getter e setter in modo che:
 - titolo sia in lettura e in scrittura
 - data sia in lettura e scrittura
@@ -29,10 +30,15 @@ Aggiungete eventuali metodi (public e private) che vi aiutino a svolgere le funz
 Step 2
 
 Creare una classe Main di test, in cui si chiede all’utente di inserire un nuovo evento con tutti i parametri.
+
 Dopo che l’evento è stato istanziato, chiedere all’utente se e quante prenotazioni vuole fare e provare ad effettuarle, implementando opportuni controlli
+
 Stampare a video il numero di posti prenotati e quelli disponibili
+
 Chiedere all’utente se e quanti posti vuole disdire
+
 Provare ad effettuare le disdette, implementando opportuni controlli
+
 Stampare a video il numero di posti prenotati e quelli disponibili
 
 Step 3
