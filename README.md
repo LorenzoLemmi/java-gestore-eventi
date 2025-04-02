@@ -3,7 +3,7 @@
 Consegna
 Stiamo lavorando a un programma che deve gestire eventi (ad esempio concerti, conferenze, spettacoli etc.).
 
-#Step 1
+Step 1
 
 Creare una classe Evento che abbia le seguenti proprietà:
 - titolo
@@ -27,7 +27,7 @@ Vanno inoltre implementati dei metodi public che svolgono le seguenti funzioni:
   
 Aggiungete eventuali metodi (public e private) che vi aiutino a svolgere le funzioni richieste.
 
-#Step 2
+Step 2
 
 Creare una classe Main di test, in cui si chiede all’utente di inserire un nuovo evento con tutti i parametri.
 
@@ -41,7 +41,7 @@ Provare ad effettuare le disdette, implementando opportuni controlli
 
 Stampare a video il numero di posti prenotati e quelli disponibili
 
-#Step 3
+Step 3
 
 Creare una classe Concerto che estende Evento, che ha anche gli attributi :
 - ora (LocalTime)
