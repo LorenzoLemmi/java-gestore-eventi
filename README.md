@@ -3,7 +3,7 @@
 Consegna
 Stiamo lavorando a un programma che deve gestire eventi (ad esempio concerti, conferenze, spettacoli etc.).
 
-** ## Step 1**
+## Step 1
 
 Creare una classe Evento che abbia le seguenti proprietà:
 - titolo
